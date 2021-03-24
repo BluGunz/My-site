@@ -59,6 +59,11 @@ background-color: #2d8a5b;
   text-decoration: underline;
 }
 
+.intro {
+width: 50%;
+margin: auto;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 180px;
